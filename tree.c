@@ -1,9 +1,8 @@
-#include <stdio.h>
 #include <stdlib.h>
 #include <assert.h>
 #include <string.h>
 #include <time.h>
-
+#include <stdio.h>
 #define MAX_SCORP 25 
 #define BASE 10
 
